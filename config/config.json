@@ -1,0 +1,18 @@
+{
+	"development": {
+		"username": "postgres",
+		"password": "kibu1280",
+		"database": "COFFE-SHOPS",
+		"host": "127.0.0.1",
+		"port": 5432,
+		"dialect": "postgres"
+	},
+	"test": {
+		"username": "postgres",
+		"password": "kibu1280",
+		"database": "COFFE-SHOP",
+		"host": "127.0.0.1",
+		"port": 5432,
+		"dialect": "postgres"
+	}
+}
